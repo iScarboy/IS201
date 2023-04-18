@@ -1,0 +1,52 @@
+.site-header {
+	text-align: center;
+	color: white;
+}
+.center {
+  text-align: center;
+
+}
+ol {
+  margin: 0 auto;
+  display: table;
+}
+
+#white-text {
+	color: white;
+	font-size: 24px;
+}
+
+.box {
+  border: 2px solid black;
+  background-color: #f1f1f1;
+  padding: 5px;
+  width: 400px;
+  margin: auto 0;
+}
+
+h2 {
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+  color: white;
+}
+.footer {
+  background-color: clear;
+  color: white;
+  padding: 5px;
+  text-align: center;
+  
+  bottom: 0;
+  width: 95%;
+}
+body {
+  font-family: Garamond, arial, sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 1.5;
+  background-color: #fff;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
